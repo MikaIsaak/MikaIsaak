@@ -21,4 +21,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mikaisaak&show_icons=true&locale=en" alt="mikaisaak" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mikaisaak&" alt="mikaisaak" /></p>
-[Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) 
