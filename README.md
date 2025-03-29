@@ -1,4 +1,19 @@
-## This is my personal Github (not working)!
+## About me
+Smart contracts engineer with 2.5 years of experience in:
+- Large outsourcing company
+- Specialized Web3 studio 
+- Own startup
+
+## Expertise
+- Creating smart contracts for EVM blockchains
+- Designing and developing smart contracts
+- Gas optimization
+- Protocol integration
+- Security
+- Building high-performance on-chain ecosystem
+
+## Background
+Active participant in the crypto market since 2020, with a strong interest in the business aspects of Web3 development
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/475395242145611776) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mikael_isayan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mikael-isayan) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Mika_Isaak) 
