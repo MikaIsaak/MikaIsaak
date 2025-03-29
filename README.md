@@ -1,5 +1,5 @@
 ## About me
-Smart contracts engineer with 2.5 years of experience in:
+## Smart contracts engineer with 2.5 years of experience in:
 - Large outsourcing company
 - Specialized Web3 studio 
 - Own startup
